@@ -1,3 +1,4 @@
+link to app= "https://clustering-8wkpmqzyyktnfuaswaltvz.streamlit.app/"
 # 🛍️ Customer Segmentation Using KMeans
 
 This project segments mall customers into behavioral groups using unsupervised KMeans clustering. The app also visualizes the clusters using PCA.
